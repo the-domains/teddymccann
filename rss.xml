@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Teddy McCann]]></title>
         <description><![CDATA[Teddy McCann]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/teddymccann/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 23:34:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Dec 2015 23:39:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/teddymccann/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf0144df-4e7a-47a2-9844-8567c990c91d.png">]]></description>
-            <link>undefinede32f1b04-5d7d-410e-b0bf-c86dacc53a0e/index.html</link>
+            <link>https://thegrid.ai/teddymccann/e32f1b04-5d7d-410e-b0bf-c86dacc53a0e/index.html</link>
             <guid isPermaLink="false">e32f1b04-5d7d-410e-b0bf-c86dacc53a0e</guid>
-            <pubDate>Tue, 29 Dec 2015 23:33:27 GMT</pubDate>
+            <pubDate>Tue, 29 Dec 2015 23:39:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
