@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-30T04:33:11.823Z'
-dateModified: '2015-12-30T04:33:09.177Z'
-title: fresh look
+datePublished: '2015-12-30T04:35:48.469Z'
+dateModified: '2015-12-30T04:35:46.128Z'
+title: Fresh Look
 author: []
 sourcePath: _posts/2015-12-30-better-life.md
 published: true
@@ -22,10 +22,12 @@ url: better-life/index.html
 _type: WebPage
 
 ---
-# [fresh look][0]
+# 
+
+# [Fresh Look][0]
 
 **looking to enhance your life through better wellness?**
 
 **massage therapy can help!**
 
-[0]: teddymccann.com/better-life/fresh-look
+[0]: null
