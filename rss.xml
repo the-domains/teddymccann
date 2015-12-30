@@ -2,13 +2,21 @@
     <channel>
         <title><![CDATA[Teddy McCann]]></title>
         <description><![CDATA[Teddy McCann]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://teddymccann.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Dec 2015 01:59:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Dec 2015 02:25:20 GMT</lastBuildDate>
+        <atom:link href="http://teddymccann.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined94a858d4-88f1-4592-b987-44fc1c71e274/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/24cc877f-40c0-441f-8524-4b1bad598600.png">]]></description>
+            <link>http://teddymccann.com/b19cf02f-d6f0-4ab8-8396-204a43accf65/index.html</link>
+            <guid isPermaLink="false">b19cf02f-d6f0-4ab8-8396-204a43accf65</guid>
+            <pubDate>Wed, 30 Dec 2015 02:25:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>-Billy Currington</p>]]></description>
+            <link>http://teddymccann.com/94a858d4-88f1-4592-b987-44fc1c71e274/index.html</link>
             <guid isPermaLink="false">94a858d4-88f1-4592-b987-44fc1c71e274</guid>
             <pubDate>Wed, 30 Dec 2015 01:59:14 GMT</pubDate>
         </item>
