@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-30T04:06:00.338Z'
-dateModified: '2015-12-30T04:05:53.633Z'
+datePublished: '2015-12-30T04:07:08.963Z'
+dateModified: '2015-12-30T04:06:59.110Z'
 title: Better Life
 author: []
 sourcePath: _posts/2015-12-30-better-life.md
@@ -22,4 +22,6 @@ url: better-life/index.html
 _type: WebPage
 
 ---
-fresh look
+[Better Life][0]
+
+[0]: teddymccann.com/better-life
