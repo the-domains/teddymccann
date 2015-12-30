@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-30T04:23:08.370Z'
-dateModified: '2015-12-30T04:23:06.237Z'
+datePublished: '2015-12-30T04:27:35.713Z'
+dateModified: '2015-12-30T04:27:33.099Z'
 title: MassageChiropracticAcupunctureNutritionYogaFitnessPersonal TrainingGym Memberships
 author: []
 sourcePath: _posts/2015-12-30-fresh-look.md
