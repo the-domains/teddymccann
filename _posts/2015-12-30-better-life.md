@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-30T04:20:09.744Z'
-dateModified: '2015-12-30T04:20:07.361Z'
+datePublished: '2015-12-30T04:23:16.755Z'
+dateModified: '2015-12-30T04:22:29.428Z'
 title: fresh look
 author: []
 sourcePath: _posts/2015-12-30-better-life.md
