@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-30T04:10:59.546Z'
-dateModified: '2015-12-30T04:10:56.126Z'
-title: Better Life
+datePublished: '2015-12-30T04:12:07.486Z'
+dateModified: '2015-12-30T04:11:59.927Z'
+title: fresh look
 author: []
 sourcePath: _posts/2015-12-30-better-life.md
 published: true
@@ -22,7 +22,7 @@ url: better-life/index.html
 _type: WebPage
 
 ---
-[fresh look][0]
+# [fresh look][0]
 
 looking to enhance your life through better wellness?
 
