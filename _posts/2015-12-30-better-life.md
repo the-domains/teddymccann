@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-30T04:23:16.755Z'
-dateModified: '2015-12-30T04:22:29.428Z'
+datePublished: '2015-12-30T04:24:53.368Z'
+dateModified: '2015-12-30T04:24:50.418Z'
 title: fresh look
 author: []
 sourcePath: _posts/2015-12-30-better-life.md
@@ -24,8 +24,8 @@ _type: WebPage
 ---
 # [fresh look][0]
 
-looking to enhance your life through better wellness?
+**looking to enhance your life through better wellness?**
 
-massage therapy can help!
+**massage therapy can help!**
 
 [0]: fresh-look
