@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-30T04:24:53.368Z'
-dateModified: '2015-12-30T04:24:50.418Z'
+datePublished: '2015-12-30T04:25:18.422Z'
+dateModified: '2015-12-30T04:25:16.150Z'
 title: fresh look
 author: []
 sourcePath: _posts/2015-12-30-better-life.md
@@ -28,4 +28,4 @@ _type: WebPage
 
 **massage therapy can help!**
 
-[0]: fresh-look
+[0]: better-life
