@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-30T04:31:49.989Z'
-dateModified: '2015-12-30T04:31:47.804Z'
+datePublished: '2015-12-30T04:33:11.823Z'
+dateModified: '2015-12-30T04:33:09.177Z'
 title: fresh look
 author: []
 sourcePath: _posts/2015-12-30-better-life.md
@@ -28,4 +28,4 @@ _type: WebPage
 
 **massage therapy can help!**
 
-[0]: better-life/fresh-look
+[0]: teddymccann.com/better-life/fresh-look
